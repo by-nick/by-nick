@@ -14,14 +14,14 @@ Meu nome √© Nick, tenho 19 anos, natural de Belo Horizonte-MG. Conclui ensino m√
 ###
 
 
-<a href="https://github.com/by-nick?tab=repositories&sort=stargazers">
+<a href="https://github.com/by-nick?tab=repositories&sort=stargazers" target="_blank" rel="external">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/by-nick?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/by-nick?tab=followers">
+    <a href="https://github.com/by-nick?tab=followers" target="_blank" rel="external">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
@@ -30,13 +30,13 @@ Meu nome √© Nick, tenho 19 anos, natural de Belo Horizonte-MG. Conclui ensino m√
     </a>
 
 <div align="left">
-  <a href="https://www.instagram.com/by.__.nick/" target="_blank">
+  <a href="https://www.instagram.com/by.__.nick/" target="_blank" rel="external">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://discord.com/channels/@me" target="_blank">
+  <a href="https://discord.com/channels/@me" target="_blank" rel="external">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/nick-brito-48b5a7218/" target="_blank">
+  <a href="https://www.linkedin.com/in/nick-brito-48b5a7218/" target="_blank" rel="external">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
