@@ -1,7 +1,6 @@
 # 👩🏽‍💻 Nick Brito
 
 **`Desenvolvedora de Jogos`**
-**`Desenvolvedora Web`**
 
 Meu nome é Nick, tenho 19 anos, natural de Belo Horizonte-MG. Conclui ensino médio na Escola Estadual Presidente Tancredo Neves. Sou formada em programação de jogos digitais pelo Senai. Procuro emprego ou freelancer na área de tecnologia e jogos
 
