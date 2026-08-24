@@ -2,7 +2,7 @@
 
 **`Desenvolvedora de Jogos`**
 
-Meu nome é Nick, tenho 19 anos, natural de Belo Horizonte-MG. Conclui ensino médio na Escola Estadual Presidente Tancredo Neves. Sou formada em programação de jogos digitais pelo Senai. Procuro emprego ou freelancer na área de tecnologia e jogos
+Meu nome é Nick, tenho 20 anos, natural de Belo Horizonte-MG. Conclui ensino médio na Escola Estadual Presidente Tancredo Neves. Sou formada em programação de jogos digitais pelo Senai, fazendo graduação em jogos digitais na PUC Minas Lourdes. Procuro emprego ou freelancer na área de tecnologia e jogos
 
 <div align="center">
 </div>
